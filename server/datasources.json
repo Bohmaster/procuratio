@@ -1,0 +1,16 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "MySQL": {
+    "host": "104.223.20.230",
+    "port": 0,
+    "url": "",
+    "database": "mobile",
+    "password": "Dev782Mobile",
+    "name": "MySQL",
+    "user": "ramiro",
+    "connector": "mysql"
+  }
+}
