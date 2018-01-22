@@ -3,7 +3,7 @@
   "options": {
     "idInjection": false,
     "mysql": {
-      "schema": "mobile",
+      "schema": "salesforce",
       "table": "tblclientes_contacto"
     },
     "relations": {
@@ -17,11 +17,11 @@
   "properties": {
     "id": {
       "type": "Number",
+      "id": 1,
       "required": true,
       "length": null,
       "precision": 10,
       "scale": 0,
-      "id": 1,
       "mysql": {
         "columnName": "id",
         "dataType": "int",
@@ -166,5 +166,9 @@
         "nullable": "Y"
       }
     }
-  }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
 }

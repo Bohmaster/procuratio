@@ -8,3 +8,16 @@ exports.capitaliseFirstLetter = function(string) {
 exports.jsFileString = function(model_name) {
     return '' + 'module.exports = function(' + exports.capitaliseFirstLetter(model_name) + ') {\n' + '\t\n' + '};';
   }
+
+exports.show = function(err, models) {
+    if (err) {
+      console.error(err);
+    } else {
+      console.log(models);
+      if (models) {
+        models.forEach(function(m) {
+          console.dir(m);
+        });
+      }
+    }
+  };  

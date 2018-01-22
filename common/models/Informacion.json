@@ -3,7 +3,7 @@
   "options": {
     "idInjection": false,
     "mysql": {
-      "schema": "mobile",
+      "schema": "salesforce",
       "table": "informacion"
     },
     "relations": {}
@@ -99,5 +99,9 @@
         "nullable": "Y"
       }
     }
-  }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
 }

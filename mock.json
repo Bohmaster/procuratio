@@ -1,0 +1,36 @@
+{
+  "ids": {
+    "User": 2,
+    "AccessToken": 18,
+    "ACL": 1,
+    "RoleMapping": 1,
+    "Role": 1
+  },
+  "models": {
+    "User": {
+      "1": "{\"username\":\"admin\",\"password\":\"$2a$10$eYOih2ePHDBHW9GcAMRk6urhoEFbb8PVITUqROa2ADBvDoQ.PgsiS\",\"email\":\"admin@procuratio.com\",\"id\":1}"
+    },
+    "AccessToken": {
+      "1HFzY1Re412b5NDC1ELyrBNy9TGTEasgeK1XSAxavT9hDkhQXDuVl1PbldbfiKVw": "{\"id\":\"1HFzY1Re412b5NDC1ELyrBNy9TGTEasgeK1XSAxavT9hDkhQXDuVl1PbldbfiKVw\",\"ttl\":1209600,\"created\":\"2017-10-07T07:48:15.088Z\",\"userId\":1}",
+      "470pOT77i0UhvQvV2ZFZfJgNmmEd2W3axhwssWAEjETpxY3jICsrPCLRtg0EMAWN": "{\"id\":\"470pOT77i0UhvQvV2ZFZfJgNmmEd2W3axhwssWAEjETpxY3jICsrPCLRtg0EMAWN\",\"ttl\":1209600,\"created\":\"2017-10-07T07:55:51.728Z\",\"userId\":1}",
+      "lIe4bAC4vxOhQHobpqUu6ywg1Ql8ifF6HeX2FcDlnqgHyzoCRlacOCRDUaQYw4W4": "{\"id\":\"lIe4bAC4vxOhQHobpqUu6ywg1Ql8ifF6HeX2FcDlnqgHyzoCRlacOCRDUaQYw4W4\",\"ttl\":1209600,\"created\":\"2017-10-07T07:56:37.960Z\",\"userId\":1}",
+      "R10oXTHW8V5ajsE8ub9GgWgDtoTToBI9tcG5TEJW0ISwD8Hu2fJbJ0F1M8kmYI5y": "{\"id\":\"R10oXTHW8V5ajsE8ub9GgWgDtoTToBI9tcG5TEJW0ISwD8Hu2fJbJ0F1M8kmYI5y\",\"ttl\":1209600,\"created\":\"2017-10-07T07:57:50.768Z\",\"userId\":1}",
+      "KM5ykN8YJRZ0VP6p47n3x3svpcIPNCRt6371nE1PVnyvmLBpVflKvUzYcnKNLrzW": "{\"id\":\"KM5ykN8YJRZ0VP6p47n3x3svpcIPNCRt6371nE1PVnyvmLBpVflKvUzYcnKNLrzW\",\"ttl\":1209600,\"created\":\"2017-10-07T08:13:36.742Z\",\"userId\":1}",
+      "ncnOoLvjdomnzOLJwXvs3uN81QeVN9K8A8mnruIlzd01zSTxPgC3yJrURZ1gT13H": "{\"id\":\"ncnOoLvjdomnzOLJwXvs3uN81QeVN9K8A8mnruIlzd01zSTxPgC3yJrURZ1gT13H\",\"ttl\":1209600,\"created\":\"2017-10-07T08:14:39.965Z\",\"userId\":1}",
+      "IshM0EbsotAezYSyMngI6ad6cwl2yWPuG9zIm3rxgLg0heqfA1IXc75saItLYhrG": "{\"id\":\"IshM0EbsotAezYSyMngI6ad6cwl2yWPuG9zIm3rxgLg0heqfA1IXc75saItLYhrG\",\"ttl\":1209600,\"created\":\"2017-10-07T08:27:18.143Z\",\"userId\":1}",
+      "n1OsG0yrDJzadWkBHrIQ65AUQpbKpgeddChTYfIQLNTNPIOFhzHA4CuBBrrxUBYd": "{\"id\":\"n1OsG0yrDJzadWkBHrIQ65AUQpbKpgeddChTYfIQLNTNPIOFhzHA4CuBBrrxUBYd\",\"ttl\":1209600,\"created\":\"2017-10-07T08:31:00.285Z\",\"userId\":1}",
+      "gyqy1p4sbjPSjBAznH7Atz8Hxxc27E1RrHCUc1luTekUaoeo9YaWENn6lRyrCzV0": "{\"id\":\"gyqy1p4sbjPSjBAznH7Atz8Hxxc27E1RrHCUc1luTekUaoeo9YaWENn6lRyrCzV0\",\"ttl\":1209600,\"created\":\"2017-10-07T08:32:12.126Z\",\"userId\":1}",
+      "HwtA3iAlrDyinK1UNWzKtAqRAOd027rgaLFHtMNjlhljI0Fs40cbuVSKuPZZ0H3r": "{\"id\":\"HwtA3iAlrDyinK1UNWzKtAqRAOd027rgaLFHtMNjlhljI0Fs40cbuVSKuPZZ0H3r\",\"ttl\":1209600,\"created\":\"2017-10-07T08:35:24.444Z\",\"userId\":1}",
+      "CUf4S8W8lzfVDhw6g6a5BvRUzljzSCZcklq1ZFjBUnbvxQ5ls5m0cXNg3OuAeVSi": "{\"id\":\"CUf4S8W8lzfVDhw6g6a5BvRUzljzSCZcklq1ZFjBUnbvxQ5ls5m0cXNg3OuAeVSi\",\"ttl\":1209600,\"created\":\"2017-10-07T08:43:08.233Z\",\"userId\":1}",
+      "TrcgR2gbaAEiiDm84apNdOUv4OFC4A4VgybF1URM3NK4XdQ2RjaMZS8C6yiqPfku": "{\"id\":\"TrcgR2gbaAEiiDm84apNdOUv4OFC4A4VgybF1URM3NK4XdQ2RjaMZS8C6yiqPfku\",\"ttl\":1209600,\"created\":\"2017-10-08T04:13:09.331Z\",\"userId\":1}",
+      "PTNNdANxZDn3BAtOebUGb0NfuEH9VcWlCGk94rNLodFnvtYCDAqrHtU9iPPEajCP": "{\"id\":\"PTNNdANxZDn3BAtOebUGb0NfuEH9VcWlCGk94rNLodFnvtYCDAqrHtU9iPPEajCP\",\"ttl\":1209600,\"created\":\"2017-10-08T04:18:25.390Z\",\"userId\":1}",
+      "iygv3ZXL9IbhAIWGNeBfHiaDGb3shOEHxB9GAC0QehKu2YAfWRzfLAlW71I3qXEe": "{\"id\":\"iygv3ZXL9IbhAIWGNeBfHiaDGb3shOEHxB9GAC0QehKu2YAfWRzfLAlW71I3qXEe\",\"ttl\":1209600,\"created\":\"2017-10-08T04:18:45.024Z\",\"userId\":1}",
+      "ogggSk3U3WvvglbJCBsuAtYPdDMDxIqXHAuT9r6xFRPeG75yYVISCi4KHEFA4Czn": "{\"id\":\"ogggSk3U3WvvglbJCBsuAtYPdDMDxIqXHAuT9r6xFRPeG75yYVISCi4KHEFA4Czn\",\"ttl\":1209600,\"created\":\"2017-10-08T04:25:57.503Z\",\"userId\":1}",
+      "edi6ARBOKOTqVNxdFIbATDTXinERLIwvjew8SwNYlkRFXf9evC6p99IHEJCjCzat": "{\"id\":\"edi6ARBOKOTqVNxdFIbATDTXinERLIwvjew8SwNYlkRFXf9evC6p99IHEJCjCzat\",\"ttl\":1209600,\"created\":\"2017-10-08T04:26:36.310Z\",\"userId\":1}",
+      "80sxp4d68GvCySv9wY3vBtHPimQXkk4Mb7YjfNkdCOfRe4ACYFNayqnu7L3hco2F": "{\"id\":\"80sxp4d68GvCySv9wY3vBtHPimQXkk4Mb7YjfNkdCOfRe4ACYFNayqnu7L3hco2F\",\"ttl\":1209600,\"created\":\"2017-10-09T23:34:54.566Z\",\"userId\":1}"
+    },
+    "ACL": {},
+    "RoleMapping": {},
+    "Role": {}
+  }
+}

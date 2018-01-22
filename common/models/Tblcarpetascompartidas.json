@@ -3,7 +3,7 @@
   "options": {
     "idInjection": false,
     "mysql": {
-      "schema": "mobile",
+      "schema": "salesforce",
       "table": "tblcarpetascompartidas"
     },
     "relations": {}
@@ -69,5 +69,9 @@
         "nullable": "Y"
       }
     }
-  }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
 }

@@ -8,7 +8,8 @@
   "scripts": {
     "lint": "eslint .",
     "start": "node .",
-    "posttest": "npm run lint && nsp check"
+    "posttest": "npm run lint && nsp check",
+    "build:sdk": "./node_modules/.bin/lb-sdk server/server client/procuratio/src/shared/sdk -d ng2web -i disabled"
   },
   "dependencies": {
     "compression": "^1.0.3",
@@ -23,6 +24,7 @@
     "strong-error-handler": "^2.0.0"
   },
   "devDependencies": {
+    "@mean-expert/loopback-sdk-builder": "^2.1.0-rc.13.5",
     "eslint": "^3.17.1",
     "eslint-config-loopback": "^8.0.0",
     "nsp": "^2.1.0"

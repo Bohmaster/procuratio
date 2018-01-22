@@ -1,16 +1,17 @@
 {
   "db": {
     "name": "db",
-    "connector": "memory"
+    "connector": "memory",
+    "file": "mock.json"
   },
   "MySQL": {
-    "host": "104.223.20.230",
+    "host": "104.236.47.62",
     "port": 0,
     "url": "",
-    "database": "mobile",
-    "password": "Dev782Mobile",
+    "database": "salesforce",
+    "password": "Mob34?5_2a",
     "name": "MySQL",
-    "user": "ramiro",
+    "user": "pr_mobile",
     "connector": "mysql"
   }
 }
